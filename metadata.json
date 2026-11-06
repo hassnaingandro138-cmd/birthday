@@ -1,0 +1,6 @@
+{
+  "name": "Umair Ali Birthday Surprise",
+  "description": "A luxury, heartfelt, and interactive birthday surprise experience for my dearest brother and best friend, Umair Ali. Celebrate on 8 December.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
